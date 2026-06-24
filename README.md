@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Amogh0786/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Amogh0786/leetcode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Amogh0786/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Amogh0786/leetcode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Amogh0786/leetcode/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Amogh0786/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
