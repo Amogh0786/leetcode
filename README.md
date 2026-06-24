@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amogh0786/leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Amogh0786/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
