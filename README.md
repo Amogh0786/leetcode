@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Amogh0786/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Amogh0786/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Amogh0786/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Amogh0786/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Amogh0786/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Amogh0786/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Amogh0786/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Amogh0786/leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Memoization
 |  |
 | ------- |
