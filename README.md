@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Amogh0786/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Amogh0786/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Amogh0786/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/Amogh0786/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Amogh0786/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Amogh0786/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Amogh0786/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Amogh0786/leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
