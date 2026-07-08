@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Amogh0786/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Amogh0786/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Amogh0786/leetcode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Amogh0786/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amogh0786/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Amogh0786/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Amogh0786/leetcode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Amogh0786/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amogh0786/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
