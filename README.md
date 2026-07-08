@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Amogh0786/leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Amogh0786/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Amogh0786/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Amogh0786/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Amogh0786/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Amogh0786/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Amogh0786/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amogh0786/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Amogh0786/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Amogh0786/leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Amogh0786/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Amogh0786/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Amogh0786/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Amogh0786/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Amogh0786/leetcode/tree/master/0119-pascals-triangle-ii) |
