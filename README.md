@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amogh0786/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Amogh0786/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Amogh0786/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Amogh0786/leetcode/tree/master/0012-integer-to-roman) |
@@ -149,10 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amogh0786/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Amogh0786/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amogh0786/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Amogh0786/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Amogh0786/leetcode/tree/master/0050-powx-n) |
 ## Trie
