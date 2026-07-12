@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Amogh0786/leetcode/tree/master/1029-two-city-scheduling) |
 | [1268-search-suggestions-system](https://github.com/Amogh0786/leetcode/tree/master/1268-search-suggestions-system) |
 | [1732-find-the-highest-altitude](https://github.com/Amogh0786/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Amogh0786/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Amogh0786/leetcode/tree/master/0205-isomorphic-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Amogh0786/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1268-search-suggestions-system](https://github.com/Amogh0786/leetcode/tree/master/1268-search-suggestions-system) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Amogh0786/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
 | ------- |
