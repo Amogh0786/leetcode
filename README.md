@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Amogh0786/leetcode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Amogh0786/leetcode/tree/master/0223-rectangle-area) |
 | [1025-divisor-game](https://github.com/Amogh0786/leetcode/tree/master/1025-divisor-game) |
+| [2235-add-two-integers](https://github.com/Amogh0786/leetcode/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
