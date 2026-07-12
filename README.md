@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Amogh0786/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amogh0786/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Amogh0786/leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Amogh0786/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Amogh0786/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Amogh0786/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Amogh0786/leetcode/tree/master/0067-add-binary) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amogh0786/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Amogh0786/leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Amogh0786/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Amogh0786/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Amogh0786/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Amogh0786/leetcode/tree/master/0070-climbing-stairs) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Amogh0786/leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Amogh0786/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Amogh0786/leetcode/tree/master/0045-jump-game-ii) |
 ## Linked List
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amogh0786/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Amogh0786/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Amogh0786/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Amogh0786/leetcode/tree/master/0050-powx-n) |
 ## Trie
 |  |
