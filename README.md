@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Amogh0786/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Amogh0786/leetcode/tree/master/1029-two-city-scheduling) |
 | [1268-search-suggestions-system](https://github.com/Amogh0786/leetcode/tree/master/1268-search-suggestions-system) |
+| [1732-find-the-highest-altitude](https://github.com/Amogh0786/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Amogh0786/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Amogh0786/leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
