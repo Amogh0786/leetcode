@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Amogh0786/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Amogh0786/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Amogh0786/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Amogh0786/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Amogh0786/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Amogh0786/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amogh0786/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Amogh0786/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Amogh0786/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Amogh0786/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Amogh0786/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amogh0786/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amogh0786/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Amogh0786/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Amogh0786/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Amogh0786/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Amogh0786/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Amogh0786/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amogh0786/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amogh0786/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amogh0786/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Amogh0786/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Amogh0786/leetcode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Amogh0786/leetcode/tree/master/0223-rectangle-area) |
+| [0268-missing-number](https://github.com/Amogh0786/leetcode/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/Amogh0786/leetcode/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/Amogh0786/leetcode/tree/master/2235-add-two-integers) |
 ## String
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Amogh0786/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Amogh0786/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Amogh0786/leetcode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/Amogh0786/leetcode/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Amogh0786/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
@@ -192,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Amogh0786/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amogh0786/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Amogh0786/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/Amogh0786/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amogh0786/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amogh0786/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Amogh0786/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
