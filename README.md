@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Amogh0786/leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Amogh0786/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Amogh0786/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Amogh0786/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amogh0786/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amogh0786/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Amogh0786/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Amogh0786/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Amogh0786/leetcode/tree/master/0205-isomorphic-strings) |
+| [0349-intersection-of-two-arrays](https://github.com/Amogh0786/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amogh0786/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Amogh0786/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Amogh0786/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Amogh0786/leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Amogh0786/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amogh0786/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amogh0786/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Amogh0786/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Amogh0786/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Amogh0786/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Amogh0786/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amogh0786/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amogh0786/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Amogh0786/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amogh0786/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Amogh0786/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Amogh0786/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amogh0786/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
