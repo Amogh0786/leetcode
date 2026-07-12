@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Amogh0786/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amogh0786/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Amogh0786/leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Amogh0786/leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amogh0786/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Amogh0786/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Amogh0786/leetcode/tree/master/0169-majority-element) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Amogh0786/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Amogh0786/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Amogh0786/leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Amogh0786/leetcode/tree/master/0137-single-number-ii) |
 ## Simulation
 |  |
 | ------- |
