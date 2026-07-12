@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Amogh0786/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Amogh0786/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amogh0786/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/Amogh0786/leetcode/tree/master/1029-two-city-scheduling) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Amogh0786/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amogh0786/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amogh0786/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/Amogh0786/leetcode/tree/master/1029-two-city-scheduling) |
 ## Counting
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Amogh0786/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Amogh0786/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Amogh0786/leetcode/tree/master/0045-jump-game-ii) |
+| [1029-two-city-scheduling](https://github.com/Amogh0786/leetcode/tree/master/1029-two-city-scheduling) |
 ## Linked List
 |  |
 | ------- |
