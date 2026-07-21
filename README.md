@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Amogh0786/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Amogh0786/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Amogh0786/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Amogh0786/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Amogh0786/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Amogh0786/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Amogh0786/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Amogh0786/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Amogh0786/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Amogh0786/leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Amogh0786/leetcode/tree/master/0051-n-queens) |
 ## Geometry
 |  |
 | ------- |
