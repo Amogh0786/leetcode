@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/Amogh0786/leetcode/tree/master/1268-search-suggestions-system) |
 | [1732-find-the-highest-altitude](https://github.com/Amogh0786/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Amogh0786/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1998-gcd-sort-of-an-array](https://github.com/Amogh0786/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/Amogh0786/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Amogh0786/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Amogh0786/leetcode/tree/master/1029-two-city-scheduling) |
 | [1268-search-suggestions-system](https://github.com/Amogh0786/leetcode/tree/master/1268-search-suggestions-system) |
+| [1998-gcd-sort-of-an-array](https://github.com/Amogh0786/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/Amogh0786/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Counting
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Amogh0786/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0866-prime-palindrome](https://github.com/Amogh0786/leetcode/tree/master/0866-prime-palindrome) |
 | [1025-divisor-game](https://github.com/Amogh0786/leetcode/tree/master/1025-divisor-game) |
+| [1998-gcd-sort-of-an-array](https://github.com/Amogh0786/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2235-add-two-integers](https://github.com/Amogh0786/leetcode/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amogh0786/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Amogh0786/leetcode/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/Amogh0786/leetcode/tree/master/0866-prime-palindrome) |
+| [1998-gcd-sort-of-an-array](https://github.com/Amogh0786/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amogh0786/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Monotonic Stack
 |  |
@@ -398,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Amogh0786/leetcode/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/Amogh0786/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 <!---LeetCode Topics End-->
