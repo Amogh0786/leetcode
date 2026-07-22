@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Amogh0786/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Amogh0786/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Amogh0786/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0866-prime-palindrome](https://github.com/Amogh0786/leetcode/tree/master/0866-prime-palindrome) |
 | [1025-divisor-game](https://github.com/Amogh0786/leetcode/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/Amogh0786/leetcode/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amogh0786/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Amogh0786/leetcode/tree/master/0258-add-digits) |
+| [0866-prime-palindrome](https://github.com/Amogh0786/leetcode/tree/master/0866-prime-palindrome) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amogh0786/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Monotonic Stack
 |  |
