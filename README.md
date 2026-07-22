@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Amogh0786/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Amogh0786/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Amogh0786/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Amogh0786/leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Amogh0786/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Amogh0786/leetcode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Amogh0786/leetcode/tree/master/0223-rectangle-area) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Amogh0786/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Amogh0786/leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Amogh0786/leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Amogh0786/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Amogh0786/leetcode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Amogh0786/leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Amogh0786/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Amogh0786/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Amogh0786/leetcode/tree/master/0051-n-queens) |
+| [0089-gray-code](https://github.com/Amogh0786/leetcode/tree/master/0089-gray-code) |
 ## Geometry
 |  |
 | ------- |
