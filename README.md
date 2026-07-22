@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1998-gcd-sort-of-an-array](https://github.com/Amogh0786/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2235-add-two-integers](https://github.com/Amogh0786/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Amogh0786/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Amogh0786/leetcode/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amogh0786/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Amogh0786/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/Amogh0786/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/Amogh0786/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Amogh0786/leetcode/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amogh0786/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Monotonic Stack
 |  |
@@ -418,4 +420,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Amogh0786/leetcode/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/Amogh0786/leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
