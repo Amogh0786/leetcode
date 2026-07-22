@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Amogh0786/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Amogh0786/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Amogh0786/leetcode/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Amogh0786/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Amogh0786/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Amogh0786/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Amogh0786/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Amogh0786/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Amogh0786/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Amogh0786/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0187-repeated-dna-sequences](https://github.com/Amogh0786/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Amogh0786/leetcode/tree/master/0205-isomorphic-strings) |
 | [0917-reverse-only-letters](https://github.com/Amogh0786/leetcode/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/Amogh0786/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Amogh0786/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Amogh0786/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Amogh0786/leetcode/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Amogh0786/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Amogh0786/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Amogh0786/leetcode/tree/master/0371-sum-of-two-integers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Amogh0786/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amogh0786/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Amogh0786/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0187-repeated-dna-sequences](https://github.com/Amogh0786/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Amogh0786/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Amogh0786/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Amogh0786/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -344,10 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Amogh0786/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Amogh0786/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Amogh0786/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Amogh0786/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Prefix Sum
 |  |
