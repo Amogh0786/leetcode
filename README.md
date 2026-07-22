@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/Amogh0786/leetcode/tree/master/1268-search-suggestions-system) |
 | [1732-find-the-highest-altitude](https://github.com/Amogh0786/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Amogh0786/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Amogh0786/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/Amogh0786/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/Amogh0786/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Amogh0786/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0866-prime-palindrome](https://github.com/Amogh0786/leetcode/tree/master/0866-prime-palindrome) |
 | [1025-divisor-game](https://github.com/Amogh0786/leetcode/tree/master/1025-divisor-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Amogh0786/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/Amogh0786/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2235-add-two-integers](https://github.com/Amogh0786/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Amogh0786/leetcode/tree/master/2413-smallest-even-multiple) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Amogh0786/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Amogh0786/leetcode/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/Amogh0786/leetcode/tree/master/0866-prime-palindrome) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Amogh0786/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/Amogh0786/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/Amogh0786/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amogh0786/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
