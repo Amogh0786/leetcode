@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Amogh0786/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Amogh0786/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Amogh0786/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Amogh0786/leetcode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Amogh0786/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0866-prime-palindrome](https://github.com/Amogh0786/leetcode/tree/master/0866-prime-palindrome) |
 | [1025-divisor-game](https://github.com/Amogh0786/leetcode/tree/master/1025-divisor-game) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Amogh0786/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Amogh0786/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Amogh0786/leetcode/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/Amogh0786/leetcode/tree/master/0326-power-of-three) |
 ## Trie
 |  |
 | ------- |
