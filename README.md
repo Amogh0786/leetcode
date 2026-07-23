@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Amogh0786/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Amogh0786/leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Amogh0786/leetcode/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/Amogh0786/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Amogh0786/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Amogh0786/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Amogh0786/leetcode/tree/master/0268-missing-number) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Amogh0786/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Amogh0786/leetcode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Amogh0786/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/Amogh0786/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Amogh0786/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Amogh0786/leetcode/tree/master/0371-sum-of-two-integers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Amogh0786/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Amogh0786/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Amogh0786/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Amogh0786/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Amogh0786/leetcode/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
