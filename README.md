@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amogh0786/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Amogh0786/leetcode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Amogh0786/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/Amogh0786/leetcode/tree/master/0412-fizz-buzz) |
 | [0866-prime-palindrome](https://github.com/Amogh0786/leetcode/tree/master/0866-prime-palindrome) |
 | [1025-divisor-game](https://github.com/Amogh0786/leetcode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Amogh0786/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Amogh0786/leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Amogh0786/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Amogh0786/leetcode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Amogh0786/leetcode/tree/master/0412-fizz-buzz) |
 | [0917-reverse-only-letters](https://github.com/Amogh0786/leetcode/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/Amogh0786/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1268-search-suggestions-system](https://github.com/Amogh0786/leetcode/tree/master/1268-search-suggestions-system) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Amogh0786/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Amogh0786/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Amogh0786/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Amogh0786/leetcode/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
