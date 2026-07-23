@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Amogh0786/leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Amogh0786/leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Amogh0786/leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Amogh0786/leetcode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Amogh0786/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Amogh0786/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Amogh0786/leetcode/tree/master/0268-missing-number) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Amogh0786/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Amogh0786/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amogh0786/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0233-number-of-digit-one](https://github.com/Amogh0786/leetcode/tree/master/0233-number-of-digit-one) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Amogh0786/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1025-divisor-game](https://github.com/Amogh0786/leetcode/tree/master/1025-divisor-game) |
 ## Memoization
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Amogh0786/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Amogh0786/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Amogh0786/leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Amogh0786/leetcode/tree/master/0233-number-of-digit-one) |
 ## Trie
 |  |
 | ------- |
