@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Amogh0786/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Amogh0786/leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Amogh0786/leetcode/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/Amogh0786/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Amogh0786/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Amogh0786/leetcode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Amogh0786/leetcode/tree/master/0258-add-digits) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Amogh0786/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/Amogh0786/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Amogh0786/leetcode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Amogh0786/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Amogh0786/leetcode/tree/master/0242-valid-anagram) |
 | [0917-reverse-only-letters](https://github.com/Amogh0786/leetcode/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/Amogh0786/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Amogh0786/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Amogh0786/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Amogh0786/leetcode/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/Amogh0786/leetcode/tree/master/0224-basic-calculator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Amogh0786/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Amogh0786/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Amogh0786/leetcode/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/Amogh0786/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Amogh0786/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Amogh0786/leetcode/tree/master/0233-number-of-digit-one) |
 ## Trie
