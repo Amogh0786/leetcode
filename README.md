@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Amogh0786/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Amogh0786/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Amogh0786/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Amogh0786/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Amogh0786/leetcode/tree/master/0412-fizz-buzz) |
 | [0917-reverse-only-letters](https://github.com/Amogh0786/leetcode/tree/master/0917-reverse-only-letters) |
 | [0937-reorder-data-in-log-files](https://github.com/Amogh0786/leetcode/tree/master/0937-reorder-data-in-log-files) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Amogh0786/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Amogh0786/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amogh0786/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Amogh0786/leetcode/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/Amogh0786/leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amogh0786/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amogh0786/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Amogh0786/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/Amogh0786/leetcode/tree/master/0233-number-of-digit-one) |
+| [0392-is-subsequence](https://github.com/Amogh0786/leetcode/tree/master/0392-is-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Amogh0786/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1025-divisor-game](https://github.com/Amogh0786/leetcode/tree/master/1025-divisor-game) |
 ## Memoization
