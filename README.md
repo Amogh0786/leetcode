@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Amogh0786/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Amogh0786/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Amogh0786/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Amogh0786/leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Amogh0786/leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Amogh0786/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Amogh0786/leetcode/tree/master/0202-happy-number) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Amogh0786/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Amogh0786/leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Amogh0786/leetcode/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Amogh0786/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Amogh0786/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Amogh0786/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Amogh0786/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amogh0786/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Amogh0786/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Amogh0786/leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Amogh0786/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Amogh0786/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Amogh0786/leetcode/tree/master/0219-contains-duplicate-ii) |
