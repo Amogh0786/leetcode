@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Amogh0786/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Amogh0786/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Amogh0786/leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Amogh0786/leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Amogh0786/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Amogh0786/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Amogh0786/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Amogh0786/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Amogh0786/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Amogh0786/leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Amogh0786/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Amogh0786/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Amogh0786/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Amogh0786/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Amogh0786/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Amogh0786/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Amogh0786/leetcode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Amogh0786/leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Amogh0786/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Amogh0786/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Database
