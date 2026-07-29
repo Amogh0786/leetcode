@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/Amogh0786/leetcode/tree/master/1268-search-suggestions-system) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Amogh0786/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Amogh0786/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [3794-reverse-string-prefix](https://github.com/Amogh0786/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Amogh0786/leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amogh0786/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Amogh0786/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [3794-reverse-string-prefix](https://github.com/Amogh0786/leetcode/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
 | ------- |
