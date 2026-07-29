@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Amogh0786/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Amogh0786/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/Amogh0786/leetcode/tree/master/1998-gcd-sort-of-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Amogh0786/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2706-buy-two-chocolates](https://github.com/Amogh0786/leetcode/tree/master/2706-buy-two-chocolates) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Amogh0786/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Hash Table
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/Amogh0786/leetcode/tree/master/1268-search-suggestions-system) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Amogh0786/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Amogh0786/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Amogh0786/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3794-reverse-string-prefix](https://github.com/Amogh0786/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amogh0786/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Amogh0786/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
