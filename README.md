@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Amogh0786/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amogh0786/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Amogh0786/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Amogh0786/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,11 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Amogh0786/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/Amogh0786/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/Amogh0786/leetcode/tree/master/2706-buy-two-chocolates) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Amogh0786/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amogh0786/leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Amogh0786/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Amogh0786/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Amogh0786/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Amogh0786/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Amogh0786/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Amogh0786/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3794-reverse-string-prefix](https://github.com/Amogh0786/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Amogh0786/leetcode/tree/master/0055-jump-game) |
 | [1029-two-city-scheduling](https://github.com/Amogh0786/leetcode/tree/master/1029-two-city-scheduling) |
 | [2706-buy-two-chocolates](https://github.com/Amogh0786/leetcode/tree/master/2706-buy-two-chocolates) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Amogh0786/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
