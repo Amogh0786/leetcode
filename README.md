@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Amogh0786/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amogh0786/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Amogh0786/leetcode/tree/master/0414-third-maximum-number) |
+| [0486-predict-the-winner](https://github.com/Amogh0786/leetcode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Amogh0786/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Amogh0786/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amogh0786/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Amogh0786/leetcode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Amogh0786/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Amogh0786/leetcode/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/Amogh0786/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amogh0786/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-prime-palindrome](https://github.com/Amogh0786/leetcode/tree/master/0866-prime-palindrome) |
 | [1025-divisor-game](https://github.com/Amogh0786/leetcode/tree/master/1025-divisor-game) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Amogh0786/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/Amogh0786/leetcode/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/Amogh0786/leetcode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Amogh0786/leetcode/tree/master/0486-predict-the-winner) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Amogh0786/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1025-divisor-game](https://github.com/Amogh0786/leetcode/tree/master/1025-divisor-game) |
 ## Memoization
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Amogh0786/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Amogh0786/leetcode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/Amogh0786/leetcode/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/Amogh0786/leetcode/tree/master/0486-predict-the-winner) |
 ## Trie
 |  |
 | ------- |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Amogh0786/leetcode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Amogh0786/leetcode/tree/master/1025-divisor-game) |
 ## Backtracking
 |  |
