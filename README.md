@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Amogh0786/leetcode/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Amogh0786/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Amogh0786/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0877-stone-game](https://github.com/Amogh0786/leetcode/tree/master/0877-stone-game) |
 | [0937-reorder-data-in-log-files](https://github.com/Amogh0786/leetcode/tree/master/0937-reorder-data-in-log-files) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amogh0786/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amogh0786/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Amogh0786/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amogh0786/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-prime-palindrome](https://github.com/Amogh0786/leetcode/tree/master/0866-prime-palindrome) |
+| [0877-stone-game](https://github.com/Amogh0786/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Amogh0786/leetcode/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/Amogh0786/leetcode/tree/master/1037-valid-boomerang) |
 | [1154-day-of-the-year](https://github.com/Amogh0786/leetcode/tree/master/1154-day-of-the-year) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Amogh0786/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Amogh0786/leetcode/tree/master/0486-predict-the-winner) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Amogh0786/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0877-stone-game](https://github.com/Amogh0786/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Amogh0786/leetcode/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Amogh0786/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Amogh0786/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Amogh0786/leetcode/tree/master/1025-divisor-game) |
 ## Backtracking
 |  |
