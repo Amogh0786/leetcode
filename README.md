@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Amogh0786/leetcode/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Amogh0786/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1268-search-suggestions-system](https://github.com/Amogh0786/leetcode/tree/master/1268-search-suggestions-system) |
+| [1406-stone-game-iii](https://github.com/Amogh0786/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Amogh0786/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Amogh0786/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Amogh0786/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/Amogh0786/leetcode/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/Amogh0786/leetcode/tree/master/1185-day-of-the-week) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Amogh0786/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1406-stone-game-iii](https://github.com/Amogh0786/leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Amogh0786/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/Amogh0786/leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2235-add-two-integers](https://github.com/Amogh0786/leetcode/tree/master/2235-add-two-integers) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Amogh0786/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/Amogh0786/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Amogh0786/leetcode/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/Amogh0786/leetcode/tree/master/1406-stone-game-iii) |
 ## Memoization
 |  |
 | ------- |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Amogh0786/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Amogh0786/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Amogh0786/leetcode/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/Amogh0786/leetcode/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -513,4 +517,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Amogh0786/leetcode/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/Amogh0786/leetcode/tree/master/2427-number-of-common-factors) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Amogh0786/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Amogh0786/leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Amogh0786/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
